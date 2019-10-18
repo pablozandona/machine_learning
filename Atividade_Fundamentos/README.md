@@ -1,4 +1,4 @@
-###Utilize regras de produção para construir uma base de conhecimento para um SBC capaz de determinar se uma pessoa está cansada, com fome ou com sede.
+### Utilize regras de produção para construir uma base de conhecimento para um SBC capaz de determinar se uma pessoa está cansada, com fome ou com sede.
 
 - SE bocejo --> cansado
 - SE olheiras --> cansado
@@ -12,6 +12,6 @@
 - SE exercitou --> sede
 
 
-###Utiliza uma rede semântica para criar uma base de conhecimento para um SBC capaz de identificar se um veículo é uma motocicleta, um automóvel de passageiros ou um ônibus.
+### Utiliza uma rede semântica para criar uma base de conhecimento para um SBC capaz de identificar se um veículo é uma motocicleta, um automóvel de passageiros ou um ônibus.
 
 ![sbc](img.png)
